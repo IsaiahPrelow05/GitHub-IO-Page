@@ -1,2 +1,2 @@
-# GitHub-IO-Page
-Hello
+# Heading 1: GitHub-IO-Page
+Hello, this is my GitHub IO Page. To me, coding is much more than just typing lines of text; it’s a way to create, solve problems, and bring ideas to life. The required logic and structure of programming challenges me to think critically, breaking down complex problems into manageable pieces. For me, I find the most excitement in coding at night. I love the focus that comes with the late hours. 
